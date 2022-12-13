@@ -5,7 +5,7 @@ void main() {
   var Random_num = Random();
   var random = Random_num.nextInt(101) + 1;
   int count = 0;
-  print(random);
+//   print(random);
   print("╔══════════════════════════════════════════════════════════════╗");
   print("║                         GUESS THE NUMBER                     ║");
   print("╟──────────────────────────────────────────────────────────────╢");
